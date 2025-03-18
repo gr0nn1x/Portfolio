@@ -2,7 +2,7 @@
 
 ![GR0NN1X Terminal](https://sjc.microlink.io/1ffS0CDv73uxJLGsdm1DnDUh08Sz5JlmEx5A6yNSYWh1a1Sp40PYezElGiKNGAwdmpFNxWKbMpXs3sJZCpDRVA.jpeg)
 
-## [LIVE DEMO](https://ozenporfolio.vercel.app/) 🎮
+## [CLICK HERE FOR SITE LINK](https://ozenporfolio.vercel.app/) 🎮
 
 A retro-themed portfolio website inspired by classic FPS games like Doom, Quake, and Ultrakill. Experience the nostalgic CRT monitor effect, terminal boot sequences, and glitchy text animations.
 
@@ -16,13 +16,3 @@ A retro-themed portfolio website inspired by classic FPS games like Doom, Quake,
 - 🌈 **Neon Color Palette** - Vibrant colors against a dark background
 - 📧 **Direct Contact System** - Integrated email functionality
 
-## TECH::STACK
-
-```tsx
-const techStack = [
-  "Next.js",
-  "TypeScript",
-  "React",
-  "Tailwind CSS",
-  "Vercel"
-];
